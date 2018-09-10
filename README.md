@@ -49,3 +49,7 @@ I'm not going to details yet, but be sure of it: games from old nintendo console
 Gamecube support is here
 
 https://sites.google.com/site/completesg/backup-launchers/gamecube/nintendont
+
+## other resources: video you like? see
+
+https://www.youtube.com/watch?v=ByabEgYHJ1c
