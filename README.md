@@ -2,6 +2,10 @@
 
 experimets dads do - how to set up child friendly wii
 
+## disclaimer
+
+currently this is all theory -- i'm preparing myself
+
 ## goal: games without dvd media
 
 ever tried to get kids to be careful with dvd's -- yep -- it goes all well until some point
@@ -41,6 +45,10 @@ http://www.wiibackupmanager.co.uk/
 if you like documents, please do
 
 https://sites.google.com/site/completesg/backup-launchers/iso/wbfs-managers/wii-backup-manager
+
+but this seems to be only part of story - for ripping something else is also needed
+
+https://www.instructables.com/id/How-to-make-a-iso-to-backup-a-wii-game-without-a-s/
 
 ## support for history: emulators
 
