@@ -58,6 +58,8 @@ Gamecube support is here
 
 https://sites.google.com/site/completesg/backup-launchers/gamecube/nintendont
 
-## other resources: video you like? see
+## other resources: video you like? see. Docs you like? read
 
 https://www.youtube.com/watch?v=ByabEgYHJ1c
+
+https://www.wikihow.com/Play-Wii-Games-from-a-USB-Drive-or-Thumb-Drive
